@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1618318358 source:c:\users\admin\desktop\vishal\c files\problems & projects\national budget management portal\main.cpp
+	<iostream>
+
+1619594975 source:c:\users\admin\desktop\vishal\c files\problems & projects\nbmp\national budget management portal\main.cpp
+	<iostream>
+	"homepage.h"
+
+1619600688 c:\users\admin\desktop\vishal\c files\problems & projects\nbmp\national budget management portal\homepage.h
+	"myheaders.h"
+
+1619596641 c:\users\admin\desktop\vishal\c files\problems & projects\nbmp\national budget management portal\userlogin.h
+
+1619596335 c:\users\admin\desktop\vishal\c files\problems & projects\nbmp\national budget management portal\myheaders.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	"utility.h"
+	"dbops.h"
+	"userlogin.h"
+	"userreg.h"
+	"dashboard.h"
+
+1618482919 c:\users\admin\desktop\vishal\c files\problems & projects\nbmp\national budget management portal\validation.h
+	"myheaders.h"
+	<mysql.h>
+
+1619600121 c:\users\admin\desktop\vishal\c files\problems & projects\nbmp\national budget management portal\utility.h
+
+1619506684 c:\users\admin\desktop\vishal\c files\problems & projects\nbmp\national budget management portal\dbops.h
+	"myheaders.h"
+	<mysql.h>
+
+1619455627 c:\users\admin\desktop\vishal\c files\problems & projects\nbmp\national budget management portal\userreg.h
+
+1619600945 c:\users\admin\desktop\vishal\c files\problems & projects\nbmp\national budget management portal\dashboard.h
+	"myheaders.h"
+
