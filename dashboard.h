@@ -157,10 +157,11 @@ void DashboardNavig()
         switch(dch = getch())
         {
             case 'H': case 'h':   outofdash = 1;                    break;
-            case 'S': case 's':   printf("This is Stats");          break;
-            case 'M': case 'm':   printf("This is Manage");         break;
             case 'U': case 'u':   UserDropDown();                   break;
             case 'Y': case 'y':   BreakupStats();                   break;
+            case 'S': case 's':   printf("This is Stats");          break;
+            case 'M': case 'm':   printf("This is Manage");         break;
+        
         }   if(outofdash) break;   }
 }
 
